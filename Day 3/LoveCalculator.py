@@ -1,3 +1,4 @@
+#In this exercise we practice how to use the string functions lower() and count(), the use of the f-string to print out a value without having to convert it to a string, and the use of "and or not" operators in an if else statement. 
 print("Welcome to the Love Calculator!")
 name1 = input("What is your name? \n")
 name2 = input("What is their name? \n")
