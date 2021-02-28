@@ -1,3 +1,4 @@
+#In this exercise we practice the use of float numbers, how to round them to a certain number of decimals and the use of if, elif and else
 height = float(input("enter your height in m: "))
 weight = float(input("enter your weight in kg: "))
 
