@@ -1,4 +1,4 @@
-#In this exercise we'll practice lists in python, and also the random module
+#In this exercise we'll practice lists in python, and also the random module. Imnportant, we aren't allowed to use choice() for this exercise
 import random
 names_string = input("Give me everybody's names, separated by a comma and a space. ")
 names = names_string.split(", ")
