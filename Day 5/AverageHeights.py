@@ -10,4 +10,4 @@ for heights in student_heights:
   total_students += 1
   total_heights += heights
 
-print(int(total_heights/total_students))
+print(round(total_heights/total_students))
